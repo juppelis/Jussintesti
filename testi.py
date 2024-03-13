@@ -8,5 +8,5 @@ else:
     print("haettavaa sanaa ei löytynyt")
 
 
-sana[aloituskohta:lopetuskohta]
+sana[indeksi:indeksi+2]
 sana[3]
