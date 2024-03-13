@@ -1,7 +1,7 @@
 print("Moikka maailma. Mitä kuuluu?")
 print("Mitä kuuluu?")
 #Tämä on kommentti
-#print((4+4)*10)
+
 #Tässä kysytään nimeä
 nimi=input("Anna nimesi: ")
 print("Tervepä terve", nimi)
