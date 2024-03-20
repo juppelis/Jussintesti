@@ -11,3 +11,4 @@ kolmasnimi="Hannu Hanhi"
 nimi="laksjflksajf"
 print("kolmasnimi on siis "+kolmasnimi+" ja nimeen tuli teksti "+nimi)
 
+print("moi")
